@@ -5,6 +5,7 @@ module.exports = function (environment) {
     modulePrefix: 'hello-world',
     environment,
     rootURL: '/',
+    baseUrl: '/hello-world',
     locationType: 'auto',
     EmberENV: {
       FEATURES: {
